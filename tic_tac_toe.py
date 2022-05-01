@@ -4,7 +4,9 @@ Author: Chelsea Castaldo
 
 Purpose: Design a program using the principles of programming with classes.
 '''
-
+# Add dialouge on who won, a drawn game.
+# Add option to choose size of grid
+# Future: make an Otrio kind of game. 
 def main():
     play_again = 'yes'
     while play_again.lower() == 'yes':
